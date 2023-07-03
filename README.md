@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd shadcn-vite-react-starter
+  cd shadcn-vite-react-starter.git
 ```
 
 Install dependencies
@@ -29,3 +29,17 @@ Start the server
   pnpm dev
 ```
 
+
+## Add component from shadcn-ui
+
+```bash
+  pnpm ui:add label input
+```
+or
+
+```bash
+  pnpm ui:add label
+```
+```bash
+  pnpm ui:add input
+```
