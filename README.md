@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd shadcn-vite-react-starter.git
+  cd shadcn-vite-react-starter
 ```
 
 Install dependencies
