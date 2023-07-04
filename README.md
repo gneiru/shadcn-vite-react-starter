@@ -30,8 +30,7 @@ Start the server
 ```
 
 
-## Add component from shadcn-ui
-
+## Add component from [shadcn-ui](https://ui.shadcn.com/docs/components)
 ```bash
   pnpm ui:add label input
 ```
